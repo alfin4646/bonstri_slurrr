@@ -5,7 +5,7 @@
 /////https://github.com/alfin4646//////
 ///////////////////////////////////////
 
-include 'tri_req.php';
+include 'tri.php';
 
 $tri = new tri();
 $imei = "868880043302499";
